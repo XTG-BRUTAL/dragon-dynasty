@@ -92,4 +92,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`Xeon`](https://github.com/XTG-BRUTAL)
+* [`BRUTAL`](https://github.com/XTG-BRUTAL)
