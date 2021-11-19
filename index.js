@@ -2778,7 +2778,7 @@ break
 					//extra features
 					case "pubglogo":
        
-				if (args.length < 1) return reply(`Where is the text?\n*Example ${prefix}pubglogo Doge|Bot`)
+				if (args.length < 1) return reply(`Where is the text?\n*Example ${prefix}pubglogo dragon|dynasty`)
 				reply('Wait!')
      ct = body.slice(9)
      memek1 = ct.split("|")[0];
@@ -4199,7 +4199,7 @@ case 'debug2':
       {
         "urlButton": {
           "displayText": `Script ${fakeyoi}`,
-          "url": "https://github.com/DGBrutal/DogeBot"
+          "url": "https://github.com/XTG-BRUTAL/dragon-dynasty"
         },
         "index": 0
       }
@@ -4897,10 +4897,10 @@ case 'nsfw':
 					reply(mess.wait)
 					anu = await fetchJson(`https://api-xchillds.herokuapp.com/api/textmaker?text=${ll1}&text2=${ll2}&text3=${ll3}&theme=google-suggestion&apikey=${xchillds}`)
 					buffer1 = await getBuffer(anu.result.url)
-					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./Brutal.jpg')})
+					Brutal.sendMessage(from, buffer1, image, {quoted: mek, thumbnail: fs.readFileSync('./xeon.jpg')})
 					break
 			case 'battlefield': 
-                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal|Doge`)
+                    if (args.length < 1) return reply(`*Example :*\n${prefix}${command} Brutal|dragon`)
 					makell = args.join(" ")
 					ll1 = makell.split("|")[0];
 					ll2 = makell.split("|")[1];
@@ -6464,7 +6464,7 @@ Brutal.sendMessage(from, stdout, text, term)
     if (isGroup && budy != undefined) {
     } else {
       console.log(
-        color("[Doge Bot]", "red"),
+        color("[Brutal]", "red"),
         "𝐃𝐨𝐠𝐞 𝐁𝐨𝐭",
         color(sender.split("@")[0])
       );
