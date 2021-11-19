@@ -1612,8 +1612,8 @@ ${readmore}
 > ⬡ ${prefix}neko
 > ⬡ ${prefix}trapnime
 
-𝗡𝗼𝘁𝗲 : Horny = Bonks💥
-Just Learn to Make Bots 🐶
+𝗡𝗼𝘁𝗲 : You are now a member of Dragon Dynasty 🐲
+Hope you will like our Dynasty 🏰
  
 𝘼𝙈 𝙉𝙊𝙏 𝘼 𝙋𝙍𝙊𝙂𝙍𝘼𝙈𝙈𝙀𝙍 𝘽𝙍𝙊
 `
@@ -1623,7 +1623,7 @@ break
 case 'credit':
    dtod = '919101765679'
    dtod1 = '919101765679'
-   dtod2 = '919774340154'
+   dtod2 = '919101765679'
    dtod3 = ''
    dtod4 ='0'
    var yez = `
