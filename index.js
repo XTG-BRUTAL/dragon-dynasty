@@ -1,6 +1,6 @@
-// Script by Xeon 
-// 𝐃𝐨𝐠𝐞 𝐁𝐨𝐭
-// ©Xeon Bot Incorporated
+// Script by BRUTAL
+// DRAGON-DYNASTY
+// ©BRUTAL Bot Incorporated
 const {
   WAConnection: _WAConnection,
   MessageType,
