@@ -83,7 +83,7 @@ const starts = async (client = new WAConnection()) => {
   });
   client.on("open", () => {
     success("2", "Successfully connected to wa, Subscribe Brutal");
-console.log(color(figlet.textSync(`${spc1}            Dragon Dynasty`, {
+console.log(color(figlet.textSync(`${spc1}            D-DYNASTY!!`, {
 font: 'Standard',
 horizontalLayout: 'default',
 vertivalLayout: 'default',
@@ -98,9 +98,9 @@ console.log(color(`${spc3}[•]`, 'aqua'), color(`Status      : Online!`, 'white
 console.log(color(`${spc3}[•]`, 'aqua'), color(`Owner       : ${fakeyoi}`, 'white'))
 console.log(color(`${spc4}< ================================================== >`, 'cyan'))
 
-    console.log(color('⎇','red'), color('𝙄 𝙬𝙧𝙤𝙩𝙚 𝙩𝙝𝙞𝙨 𝙨𝙘𝙧𝙞𝙥𝙩 𝙢𝙮𝙨𝙚𝙡𝙛!\n𝙉𝙤𝙩𝙚: 𝘿𝙤𝙣𝙩 𝙛𝙤𝙧𝙜𝙚𝙩 𝙩𝙤 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 𝙓𝙚𝙤𝙣', 'yellow'))
+    console.log(color('⎇','red'), color('𝙄 𝙬𝙧𝙤𝙩𝙚 𝙩𝙝𝙞𝙨 𝙨𝙘𝙧𝙞𝙥𝙩 𝙢𝙮𝙨𝙚𝙡𝙛!\n𝙉𝙤𝙩𝙚: 𝘿𝙤𝙣𝙩 𝙛𝙤𝙧𝙜𝙚𝙩 𝙩𝙤 𝙨𝙪𝙗𝙨𝙘𝙧𝙞𝙗𝙚 Brutal', 'yellow'))
     console.log(color('⎇','red'), color('𝗦𝗼𝘂𝗿𝗰𝗲 𝗖𝗼𝗱𝗲 𝗩𝗲𝗿𝘀𝗶𝗼𝗻:', 'aqua'), color(version))
-    console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/916909137213'))
+    console.log(color('⎇','red'), color('𝗕𝘂𝗴? 𝗘𝗿𝗿𝗼𝗿? 𝗦𝘂𝗴𝗴𝗲𝘀𝘁𝗶𝗼𝗻? 𝗩𝗶𝘀𝗶𝘁 𝗛𝗲𝗿𝗲:', 'aqua'), color('https://wa.me/919101765679'))
     console.log(color('[Dragon Dynasty]'), color('Dragon Dynasty 𝗜𝘀 𝗢𝗻𝗹𝗶𝗻𝗲 ㋛︎', 'aqua'))
     console.log(color('[DEV]', 'cyan'), color('𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝗕𝗮𝗰𝗸, 𝗢𝘄𝗻𝗲𝗿! 𝗛𝗼𝗽𝗲 𝗬𝗼𝘂 𝗔𝗿𝗲 𝗗𝗼𝗶𝗻𝗴 𝗪𝗲𝗹𝗹~', 'magenta'))
     console.log(color('⎇','green'), color('𝙏𝙝𝙖𝙣𝙠𝙨 𝙛𝙤𝙧 𝙪𝙨𝙞𝙣𝙜 𝙩𝙝𝙚 𝙗𝙤𝙩', 'white'))
